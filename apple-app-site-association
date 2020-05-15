@@ -1,0 +1,46 @@
+{
+  "activitycontinuation": {
+    "apps": [
+      "W7AFXFZGVQ.com.ehiconnect.mdnet",
+      "6X3B423LNC.com.ehiconnect.mdnet.debug",
+      "W7AFXFZGVQ.com.ehi.myemrapp",
+      "6X3B423LNC.com.ehi.myemrapp.debug"
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "W7AFXFZGVQ.com.ehiconnect.mdnet",
+      "6X3B423LNC.com.ehiconnect.mdnet.debug",
+      "W7AFXFZGVQ.com.reddit.Reddit",
+      "6X3B423LNC.com.reddit.inhouse.dev"
+    ]
+  },
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "W7AFXFZGVQ.com.ehiconnect.mdnet",
+        "paths": [
+          "/v2”,
+		“/ios/mdnetmobile-new/*”
+        ]
+      },
+      {
+        "appID": "6X3B423LNC.com.ehiconnect.mdnet.debug",
+        "paths": [
+          "/v2”,
+		“/ios/mdnetmobile-new/*”
+        ]
+      },
+      {
+        "appID": "W7AFXFZGVQ.com.ehi.myemrapp",
+        "paths": [
+          "/v2"
+        ]
+      },
+      {
+        "appID": "6X3B423LNC.com.ehi.myemrapp.debug",
+        "paths": [
+          "/v2"
+        ]
+      }
