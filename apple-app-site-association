@@ -22,7 +22,7 @@
         "appID": "W7AFXFZGVQ.com.ehiconnect.mdnet",
         "paths": [
           "/v2”,
-		“/ios/mdnetmobile-new/*”
+	  "/ios/mdnetmobile-new/*"
         ]
       },
       {
