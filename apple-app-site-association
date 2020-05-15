@@ -1,21 +1,27 @@
 {
   "activitycontinuation": {
     "apps": [
+      "9CQ3678XY9.com.ehiconnect.ehiappsv2",
       "W7AFXFZGVQ.com.ehiconnect.mdnet",
-      "9CQ3678XY9.com.ehiconnect.mdnet.debug",
-      "9CQ3678XY9.com.ehiconnect.ehiappsv2"
+      "9CQ3678XY9.com.ehiconnect.mdnet.debug"
     ]
   },
   "webcredentials": {
     "apps": [
+      "9CQ3678XY9.com.ehiconnect.ehiappsv2",
       "W7AFXFZGVQ.com.ehiconnect.mdnet",
-      "9CQ3678XY9.com.ehiconnect.mdnet.debug",
-      "9CQ3678XY9.com.ehiconnect.ehiappsv2"
+      "9CQ3678XY9.com.ehiconnect.mdnet.debug"
     ]
   },
   "applinks": {
     "apps": [],
     "details": [
+      {
+        "appID": "9CQ3678XY9.com.ehiconnect.ehiappsv2",
+        "paths": [
+          "*"
+        ]
+      },
       {
         "appID": "W7AFXFZGVQ.com.ehiconnect.mdnet",
         "paths": [
@@ -24,12 +30,6 @@
       },
       {
         "appID": "9CQ3678XY9.com.ehiconnect.mdnet.debug",
-        "paths": [
-          "*"
-        ]
-      },
-      {
-        "appID": "9CQ3678XY9.com.ehiconnect.ehiappsv2",
         "paths": [
           "*"
         ]
